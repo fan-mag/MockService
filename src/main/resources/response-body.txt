@@ -1,0 +1,4 @@
+{
+    "mock": "mocked",
+    "hello": "world"
+}
